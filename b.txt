@@ -1,1 +1,1 @@
-Testando a atualização do clone
+Mudando o texto do arquivo btxt
